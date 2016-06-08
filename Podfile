@@ -6,6 +6,7 @@
 target 'demoTaxiBeat' do
 pod 'Alamofire'
 pod 'Nuke'
+pod 'GoogleMaps', '~> 1.13'
 end
 
 target 'demoTaxiBeatTests' do
