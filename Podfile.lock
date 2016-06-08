@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (3.4.0)
+  - Nuke (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Nuke
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  Nuke: e93fa6ad10472c2d46ddca3a9dc92fd65027e40e
+
+COCOAPODS: 0.39.0
